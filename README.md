@@ -33,8 +33,9 @@ Images with our logo/slogan/url in standard FB ad size, retina.
 
 ### Slack Theme
 
-Basic slack theme hex.
+Paste the hexcodes below into your slack preferences.
 
+    #1a1a1a,#2b2b2b,#292929,#ffffff,#050505,#ffffff,#00FF26,#404040
 
 
 ### Slack Emojis
