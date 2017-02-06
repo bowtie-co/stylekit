@@ -33,7 +33,7 @@ Images with our logo/slogan/url in standard FB ad size, retina.
 
 ### Slack Theme
 
-![slack theme preview](https://github.com/adam-p/markdown-here/raw/master/slack-theme-preview.png "Slack Theme Preview")
+![slack theme preview](https://github.com/bowtie-io/stylekit/raw/master/slack-theme-preview.png)
 
 Paste the hexcodes below into your slack preferences.
 
